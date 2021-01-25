@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\bai2\bai2\bin\Debug\bai2.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\bai2\bai2\obj\Debug\bai2.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\bai2\bai2\obj\Debug\bai2.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\bai2\bai2\obj\Debug\bai2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\bai2\bai2\bin\Debug\bai2.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\bai2\bai2\bin\Debug\bai2.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\bai2\bai2\bin\Debug\bai2.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\bai2\bai2\obj\Debug\bai2.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\bai2\bai2\obj\Debug\bai2.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\bai2\bai2\obj\Debug\bai2.pdb
